@@ -1,0 +1,9 @@
+{
+  "name": "@chelse67318/testnet",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@chelse67318",
+  "repository": "https://github.com/chelse67318/Testnet",
+  "license": "ISC"
+}
